@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SchotersTask</string>
+    <string name="news_app">News App</string>
+    <string name="bookmark">bookmark</string>
+    <string name="bookmarked_list">Bookmarked List</string>
+    <string name="news_bookmarked_empty">News Bookmarked Empty</string>
+</resources>
